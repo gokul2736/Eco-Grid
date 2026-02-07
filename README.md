@@ -51,3 +51,7 @@ While traditional smart plugs are passive, Eco-Grid uses **Edge AI** and **Signa
 ## 🔮 Future Roadmap
 * **Hardware:** Integration with ESP32 for Edge Inference.
 * **Cloud:** Federated Learning for neighborhood-level grid optimization.
+
+
+## Output
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6d4172c5-17e2-4b1c-9f28-d46bd109f4c3" />
